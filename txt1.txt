@@ -1,4 +1,5 @@
 hello~
+text input after branch 1,2 has been created.. (9:56 am)
 
 this is branch 1. 
 changed at 9:47am
